@@ -6,7 +6,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusBertazzo&show_icons=true&theme=radical)
 
 ### Tecnologias aprendidas
-Front-End:
 <div style="display:inline_block">
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="html5" src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" />
@@ -17,4 +16,5 @@ Front-End:
   <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
   <img align="center" alt="reactTestingLibrary" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="typescript" src="https://camo.githubusercontent.com/eadba8a1b598dba1a215f697c434d6bd42da98bdd3098e8223df80bcf9a0cdaa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970657363726970742d79656c6c6f77677265656e" />
 </div>
