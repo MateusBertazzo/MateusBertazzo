@@ -6,8 +6,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusBertazzo&show_icons=true&theme=radical)
 
 ### Learning
-Java - Bolsa Santander + Dio
-Python - Trybe
+<div>
+  <p> Backend Java - Bolsa Santander + Dio </p>
+  <p> Python - Trybe </p>
+</div>
+
 
 ### Tecnologias aprendidas
 <div style="display:inline_block">
