@@ -18,5 +18,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="typescript" src="https://camo.githubusercontent.com/eadba8a1b598dba1a215f697c434d6bd42da98bdd3098e8223df80bcf9a0cdaa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970657363726970742d79656c6c6f77677265656e" />
   <img align="center" alt="docker" src="https://camo.githubusercontent.com/669e9f58c2de046b8dccc01a97684771e1aa75023e1e341200eabdf926ea3748/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d77686974" />
-  <img align="center" alt="sql" src="[https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white](https://camo.githubusercontent.com/3ddc0658a7f1a67e9ae32110c9a529b506933e8a6bbf8d363be1a7ac543ee52f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c7565)" />
+  <img align="center" alt="sql" src="https://camo.githubusercontent.com/3ddc0658a7f1a67e9ae32110c9a529b506933e8a6bbf8d363be1a7ac543ee52f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c7565" />
+  <img align="center" alt="sequelize" src="https://camo.githubusercontent.com/e2d190ec11ef28d4df5dda3a66c78bcc8c66d7de2700b410698e546f989f6506/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53657175656c697a652d677265656e" />
 </div>
