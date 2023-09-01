@@ -1,5 +1,5 @@
 # Olá!, me chamo Mateus Bertazzo.
-### Sou Brasileiro e atualmente estou cursando desenvolvimento web na trybe.  
+### Sou Brasileiro e atualmente estou cursando desenvolvimento web FullStack na trybe.  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-bertazzo-dev/)
 
