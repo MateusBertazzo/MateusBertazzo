@@ -5,8 +5,7 @@
 
 ### Learning
 <div>
-  <p> Backend Java - Bolsa Santander + Dio </p>
-  <p> Python - Trybe </p>
+  Ecossistema AWS
 </div>
 
 
