@@ -32,3 +32,8 @@
   <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="SPRING" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
+<br>
+<br>
+<div align="center">
+    <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBertazzo&layout=compact&hide_border=true&title_color=000000&text_color=00BFFF&bg_color=000080" />
+</div>
