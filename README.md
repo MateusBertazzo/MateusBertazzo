@@ -1,5 +1,5 @@
 # Olá!, me chamo Mateus Bertazzo.
-### Sou Brasileiro formado em Desenvolvimento de Software pela Trybe e atualmente estou cursando Bacharelado em Eng.Software  
+### Sou Brasileiro, formado em Desenvolvimento de Software Web FullStack pela Trybe e atualmente estou cursando Bacharelado em Eng.Software  
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-bertazzo-dev/)
 
