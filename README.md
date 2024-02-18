@@ -10,22 +10,22 @@
 
 
 ### HardSkills
-  **Backend:** Java, TypeScript, NodeJs, API RestFull, SOLID, SQL, JWT, Bcrypt, Spring Boot, Spring Security.
+  - **Backend:** Java, TypeScript, NodeJs, API RestFull, SOLID, SQL, JWT, Bcrypt, Spring Boot, Spring Security.
 
-  **Frontend:** JavaScript, TypeScript, React, NextJS, Styled components.
+  - **Frontend:** JavaScript, TypeScript, React, NextJS, Styled components.
 
-  **DataBase:** MySQL, MongoDB, H2.
+  - **DataBase:** MySQL, MongoDB, H2.
 
-  **ORM:** Hibernate, JPA, Prisma e Sequelize.
+  - **ORM:** Hibernate, JPA, Prisma e Sequelize.
 
-  **Testes:** Junit, RTL, Mocha, Jest, Mockito, Testes Unitarios e Testes de Integração.
+  - **Testes:** Junit, RTL, Mocha, Jest, Mockito, Testes Unitarios e Testes de Integração.
 
-  **Versionamento de Codigo:** Git e GitHub
+  - **Versionamento de Codigo:** Git e GitHub
 
-  **IDE:** Visual Studio Code, IntelliJ IDEA
+  - **IDE:** Visual Studio Code, IntelliJ IDEA
 
-  **Desenvolvimento e Deploy:** Docker, Vite, Vercel, Unix, Bash, POSTMAN.
+  - **Desenvolvimento e Deploy:** Docker, Vite, Vercel, Unix, Bash, POSTMAN.
 
 ### SoftSkills
 
-**Aluno Reservatorio de Dopamina**
+- **Aluno Reservatorio de Dopamina**
