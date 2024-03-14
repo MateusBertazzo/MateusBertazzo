@@ -10,7 +10,7 @@
 
 
 ### HardSkills
-  - **Backend:** Java, TypeScript, NodeJs, API RestFull, SOLID, SQL, JWT, Bcrypt, Spring Boot, Spring Security.
+  - **Backend:** Java, TypeScript, NodeJs, API RestFull, SOLID, SQL, JWT, Bcrypt, Spring Boot, Spring Security, Microsserviços e RabbitMQ.
 
   - **Frontend:** JavaScript, TypeScript, React, NextJS, Styled components.
 
