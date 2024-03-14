@@ -3,12 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-bertazzo-dev/)
 
-### Learning
-<div>
-  Ecossistema AWS
-</div>
-
-
 ### HardSkills
   - **Backend:** Java, TypeScript, NodeJs, API RestFull, SOLID, SQL, JWT, Bcrypt, Spring Boot, Spring Security, Microsserviços e RabbitMQ.
 
@@ -29,3 +23,7 @@
 ### SoftSkills
 
 - **Aluno Reservatorio de Dopamina**
+
+### Learning
+
+-  **Ecossistema AWS**
