@@ -20,14 +20,6 @@
 
   - **Desenvolvimento e Deploy:** Docker, Vite, Vercel, Unix, Bash, POSTMAN.
 
-### SoftSkills
-
-- **Aluno Reservatorio de Dopamina**
-
-### Learning
-
--  **Ecossistema AWS**
-
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusBertazzo&show_icons=true&theme=radical)
